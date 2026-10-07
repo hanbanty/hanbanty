@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanbanty
+- 👋 Hi, I’m Mohak Upmanyue
 - 👀 I’m interested in Robotics/Aerospace/Software/Firmware
 - 🌱 I’m currently learning Computer Engineering @ UCSC
 - 💞️ I’m looking to collaborate on any projects or any job/internship
