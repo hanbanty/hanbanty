@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanbanty
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Robotics/Aerospace/Software/Firmware
+- 🌱 I’m currently learning Computer Engineering @ UCSC
+- 💞️ I’m looking to collaborate on any projects or any job/internship
 - 📫 How to reach me: mohakupmanyue@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
